@@ -1,17 +1,27 @@
-# ML-Modules-ISI
+# Machine Learning-Modules-ISI
 This repository contains Machine Learning modules taught at ISI Bangalore 
 
 Course: Multivariate Data Analytics With Business Analytics
+
 Instructor: Prof. Boby John
+
 Semester: II
+
 Programming Language: Python, R
+
 Dataset: Provided by Prof Boby John in excel/csv format
+
 Book Referred : 
+
 An Introduction to Statistical Learning (ISLR)
-  Author: Gareth James
-          Daniela Witten
-          Trevor Hastie
-          Robert Tibshirani
+
+Author(s): 
+  1.  Gareth James
+  2.  Daniela Witten
+  3.  Trevor Hastie
+  4.  Robert Tibshirani
+
+Content - 
 
 1. Data Visualization
 2. Data Preprocessing
